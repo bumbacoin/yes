@@ -1,0 +1,9 @@
+Building Biznet
+
+See doc/readme-qt.rst for instructions on building Biznet QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Biznet.
+
+See doc/build-*.txt for instructions on building Biznetd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Biznet.

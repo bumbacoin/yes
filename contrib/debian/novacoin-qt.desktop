@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Biznet
+Comment=Biznet P2P Cryptocurrency
+Comment[fr]=Biznet, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Biznet, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Biznet-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Biznet;
+Categories=Office;
